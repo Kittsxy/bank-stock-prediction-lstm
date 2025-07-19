@@ -14,16 +14,8 @@ This project uses an LSTM neural network to forecast the stock prices of four ma
 3. Price forecasting and visualization
 4. Model evaluation using RMSE, MAE, and MAPE
 
-## 📁 Files
-- `stock_forecasting_lstm.ipynb`: The main notebook
-- `bbca_predicted_plot.png`: Sample visualization
-- `requirements.txt`: Required Python packages
-
 ## 🚀 Key Insights
 BBCA and BMRI showed the most promising long-term trends based on both forecasted prices and strong fundamentals. BBNI showed higher fluctuations, suggesting greater market risk.
-
-## 📎 Notebook Link
-[Open in Google Colab](https://colab.research.google.com/drive/10iMjaz0b4Artn76kFy2oGdD2Xrw9saV5)
 
 ---
 
